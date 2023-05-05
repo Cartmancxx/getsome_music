@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="ac12d2f6-d217-4029-bad2-4199389b0e81" name="identifier.sqlite Mapping">
+      <data-sources db="4b6c66f1-49c5-4589-8964-e31a5f3bc735" ddl="eb6d50d9-f0e2-4f54-9376-98965664a052" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="eb6d50d9-f0e2-4f54-9376-98965664a052" />
+          <option name="name" value="identifier.sqlite (DDL)" />
+          <option name="languageId" value="SQLite" />
+          <option name="urls">
+            <array />
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
